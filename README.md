@@ -9,13 +9,11 @@
 
 ### Connect with me:
 
-### Connect with me:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](nolanbraman.com)
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCfVuYSFQ885-7APPAz9OHHw/videos)
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nolanbraman/)]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Languages and Tools:
 
@@ -51,7 +49,6 @@
 
 - [Progressing past the Valley of Death AKA Tutorial Hell](https://www.nolanbraman.com/Progressing%20Past%20the%20Valley%20of%20Death/)
 - [What Is An API Anyways?](https://www.nolanbraman.com/What%20Is%20An%20API%20Anyways/)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 - [Automation - Using Your PC like it's Supposed To Be Used - Windows Edition](https://www.nolanbraman.com/Automation%20-%20Using%20your%20PC%20like%20it's%20Supposed%20To%20Be%20Used/)
 
 <!-- BLOG-POST-LIST:END -->
