@@ -2,7 +2,9 @@
 
 ## I'm a Husband, Developer, and Software Afficionado.
 
-- ⌚ I'm currently working on a [Node.js Course](https://www.youtube.com/channel/UCfVuYSFQ885-7APPAz9OHHw/videos)
+<!-- - ⌚ I'm currently working on a [Node.js Course](https://www.youtube.com/channel/UCfVuYSFQ885-7APPAz9OHHw/videos) -->
+
+- ⌚ I'm currently working on a [React/Django/Postgres Jobboard](https://www.solists.com/)
 - 🌱 I’m currently learning [deno](https://deno.land/) and [rust](https://www.rust-lang.org/)
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I am a home-brewer and lifelong snowboarder.
