@@ -52,7 +52,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Making a Commandline Tool In Node (and Then Making It Actually Do Something)](https://www.nolanbraman.com/Making%20a%20Commandline%20Tool%20In%20Node/)
 - [Progressing past the Valley of Death AKA Tutorial Hell](https://www.nolanbraman.com/Progressing%20Past%20the%20Valley%20of%20Death/)
 - [What Is An API Anyways?](https://www.nolanbraman.com/What%20Is%20An%20API%20Anyways/)
 - [Automation - Using Your PC like it's Supposed To Be Used - Windows Edition](https://www.nolanbraman.com/Automation%20-%20Using%20your%20PC%20like%20it's%20Supposed%20To%20Be%20Used/)
