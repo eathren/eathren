@@ -4,7 +4,7 @@
 
 <!-- - ⌚ I'm currently working on a [Node.js Course](https://www.youtube.com/channel/UCfVuYSFQ885-7APPAz9OHHw/videos) -->
 
-- ⌚ I'm currently working on a [React/Django/Postgres Jobboard](https://www.solists.com/)
+- ⌚ I'm currently working on a [Django/Postgres Jobboard](https://www.solists.com/)
 - 🌱 I’m currently learning  [rust](https://www.rust-lang.org/) for system programming and commandline tools, and [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) for OOP game development. 
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I am a home-brewer and lifelong snowboarder. Also an avid reader, so send me the names of your favorite books!
