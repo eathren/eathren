@@ -53,6 +53,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [100 hours of Django](https://www.nolanbraman.com/100%20hours%20of%20django/)
 - [Making a Commandline Tool In Node (and Then Making It Actually Do Something)](https://www.nolanbraman.com/Making%20a%20Commandline%20Tool%20In%20Node/)
 - [Progressing past the Valley of Death AKA Tutorial Hell](https://www.nolanbraman.com/Progressing%20Past%20the%20Valley%20of%20Death/)
 - [What Is An API Anyways?](https://www.nolanbraman.com/What%20Is%20An%20API%20Anyways/)
