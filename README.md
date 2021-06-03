@@ -9,7 +9,8 @@
 
 -->
 - 🎓 I'm a MSCS Grad student at Northeastern University. 
-- 🌱 I’m currently learning  [rust](https://www.rust-lang.org/) for system programming and commandline tools, and Python on a jobboard side project, [Solists.com](https://www.solists.com/). 1.0 is live!
+- I've worked professionally in JavaScript and Python as a software engineer. 
+- 🌱 I’m currently learning C and [rust](https://www.rust-lang.org/) for system programming and commandline tools.
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I am a home-brewer and lifelong snowboarder. Also an avid reader, so send me the names of your favorite books and ski mountains!
 
