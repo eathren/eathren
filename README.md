@@ -1,6 +1,7 @@
 ### Hi there, I'm Nolan - aka [eathren](https://www.nolanbraman.com/)👋
 
-## I'm a Husband, Developer, and Software Afficionado.
+## I'm a Husband and SDE. 
+### (I work as a programmer professionally, and also for fun). 
 
 <!--
 - ⌚ I'm currently working on a [Node.js Course](https://www.youtube.com/channel/UCfVuYSFQ885-7APPAz9OHHw/videos)
@@ -8,10 +9,10 @@
 - ⌚ I'm currently working on a [Django/Postgres Jobboard](https://www.solists.com/)
 
 -->
-- 🎓 I'm a MSCS Grad student at Northeastern University. 
+- 🎓 I'm a MSCS Master's Cadidate at Northeastern University. 
 - 💻 I've worked professionally in JavaScript and Python as a software engineer. 
 - 🌱 I’m currently learning C and [rust](https://www.rust-lang.org/) for system programming and commandline tools.
-- ⚡ Fun fact: I am a home-brewer and lifelong snowboarder. Also an avid reader, so send me the names of your favorite books and ski mountains!
+- ⚡ Fun fact: I am a home-brewer and lifelong snowboarder. I'm also a huge Terry Pratchet & Neil Gaiman fan, so send me a message of your favorite books and let's talk!
 
 ### Connect with me:
 
