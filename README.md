@@ -1,7 +1,7 @@
 ### Hi there, I'm Nolan - aka [eathren](https://www.nolanbraman.com/)👋
 
-## I'm a Husband and SDE. 
-### (I work as a programmer professionally, and also for fun). 
+<!-- ## I'm a Husband and SDE.  -->
+### I work as a programmer professionally... (and also for fun). 
 
 <!--
 - ⌚ I'm currently working on a [Node.js Course](https://www.youtube.com/channel/UCfVuYSFQ885-7APPAz9OHHw/videos)
