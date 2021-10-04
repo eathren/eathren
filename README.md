@@ -1,7 +1,8 @@
-### Hi there, I'm Nolan - aka [eathren](https://www.nolanbraman.com/)👋
+### Hi there, I'm Nolan
 
 <!-- ## I'm a Husband and SDE.  -->
-### I work as a programmer professionally (...and also for fun). 
+
+<!-- ### I work as a programmer -->
 
 <!--
 - ⌚ I'm currently working on a [Node.js Course](https://www.youtube.com/channel/UCfVuYSFQ885-7APPAz9OHHw/videos)
@@ -9,11 +10,13 @@
 - ⌚ I'm currently working on a [Django/Postgres Jobboard](https://www.solists.com/)
 
 -->
+
 #### A little bit about me -
-- 🎓 I'm a MSCS Master's Cadidate at Northeastern University. 
-- 💻 I've worked professionally in JavaScript and Python as a software engineer. 
-- 🌱 I’m currently learning C and [rust](https://www.rust-lang.org/) for system programming and commandline tools.
-- ⚡ Fun fact: I am a home-brewer and lifelong snowboarder. I'm also a huge Terry Pratchet & Neil Gaiman fan, so send me a message of your favorite books and let's talk!
+
+- 🎓 I'm a MSCS Master's Cadidate at Northeastern University.
+- 💻 I've worked professionally in JavaScript and Python as a software engineer.
+- 🌱 I’m currently [rust](https://www.rust-lang.org/) for system programming, blockchain technology, and commandline tools.
+- ⚡ Fun fact: I'm Alaskan born and raised, a home-brewer and lifelong snowboarder. I'm also a huge Terry Pratchet & Neil Gaiman fan, so send me a message of your favorite books and let's talk!
 
 ### Connect with me:
 
@@ -22,6 +25,7 @@
 <!--
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/> 
@@ -59,6 +63,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [100 hours of Django](https://www.nolanbraman.com/100%20hours%20of%20django/)
 - [Making a Commandline Tool In Node (and Then Making It Actually Do Something)](https://www.nolanbraman.com/Making%20a%20Commandline%20Tool%20In%20Node/)
 - [Progressing past the Valley of Death AKA Tutorial Hell](https://www.nolanbraman.com/Progressing%20Past%20the%20Valley%20of%20Death/)
