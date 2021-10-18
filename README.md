@@ -15,7 +15,7 @@
 
 - 🎓 I'm a MSCS Master's Cadidate at Northeastern University.
 - 💻 I've worked professionally in JavaScript and Python as a software engineer.
-- 🌱 I’m currently [rust](https://www.rust-lang.org/) for system programming, blockchain technology, and commandline tools.
+- 🌱 I’m currently [rust](https://www.rust-lang.org/) for system programming, blockchain technology, and commandline tools. I'm currently acting as the Director of Technology for the Blockchain club at Northeastern, and my pet project is working on a POW chain written in Rust.
 - ⚡ Fun fact: I'm Alaskan born and raised, a home-brewer and lifelong snowboarder. I'm also a huge Terry Pratchet & Neil Gaiman fan, so send me a message of your favorite books and let's talk!
 
 ### Connect with me:
