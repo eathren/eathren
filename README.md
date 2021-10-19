@@ -18,7 +18,7 @@
 - 🌱 I’m currently [rust](https://www.rust-lang.org/) for system programming, blockchain technology, and commandline tools. As the acting as the Director of Technology for the Blockchain club at Northeastern, my pet project is working on a POW chain written in Rust in a collaborative setting.
 - ⚡ Fun fact: I'm Alaskan born and raised, a home-brewer and lifelong snowboarder. I'm also a huge Terry Pratchet & Neil Gaiman fan, so send me a message of your favorite books and let's talk!
 
-[![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eathren)](https://github.com/anuraghazra/github-readme-stats)
+[![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eathren?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
