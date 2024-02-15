@@ -8,18 +8,20 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.eathren)
 
-[![Follow on GitHub](https://img.shields.io/github/followers/eathren?label=Follow&style=social)](https://github.com/eathren)
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eathren&theme=dark&hide_border=true" width="400">
   <img src="https://github-readme-stats.vercel.app/api?username=eathren&show_icons=true&theme=bear" width="400">
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eathren&theme=tokyonight" width="400">
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eathren&theme=tokyonight)
 
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nolanbraman-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nolanbraman/)
+
+[![Follow on GitHub](https://img.shields.io/github/followers/eathren?label=Follow&style=social)](https://github.com/eathren)
+
 
 ### Languages and Tools:
 
