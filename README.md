@@ -64,19 +64,6 @@
 <br />
 <br />
 
-<!-- ### 📺 Latest YouTube Videos -->
-
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [blog posts](https://nolanbraman.com)
 
 [website]: https://nolanbraman.com
 [youtube]: https://www.youtube.com/channel/UCfVuYSFQ885-7APPAz9OHHw/featured
