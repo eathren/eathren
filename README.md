@@ -1,22 +1,9 @@
 ### Hi there, I'm Nolan
 
-<!-- ## I'm a Husband and SDE.  -->
-
-<!-- ### I work as a programmer -->
-
-<!--
-- ⌚ I'm currently working on a [Node.js Course](https://www.youtube.com/channel/UCfVuYSFQ885-7APPAz9OHHw/videos)
-
-- ⌚ I'm currently working on a [Django/Postgres Jobboard](https://www.solists.com/)
-
--->
-
 #### A little bit about me -
-
-- 🎓 I'm a MSCS Master's Cadidate at Northeastern University.
-- 💻 I've worked professionally in JavaScript and Python as a software engineer / Frontend / JAMstack developer
-- 🌱 I’m currently [rust](https://www.rust-lang.org/) for system programming & blockchain technology, and commandline tools.
-- ⚡ Current pet project is an AI stock advisor to find overvalued and undervalued stocks, utilizing Python, TensorFlow, and Pandas. 
+- ⚡ I've worked as a software engineer since 2018 in JS, TS, and Python.
+- 🎓 I'm a MSCS Graduate from Northeastern University.
+- 🌱 My current passion project is Zenote, and I'm working on building an OS custom canvas performant library visualization system, paired with a Rust backend and React/Vite frontend.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.eathren)
 
