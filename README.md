@@ -4,13 +4,16 @@
 
 - ⚡ I've been a **Software Engineer** since 2018, specializing in JavaScript (JS), TypeScript (TS), and Python.
 - 🎓 Graduated with a **Master of Science in Computer Science (MSCS)** from **Northeastern University**.
-- 🌱 Currently, I'm deeply involved in my passion project, **Zenote**. I'm working on building an OS custom canvas performant library for visualization, paired with a **Rust backend** and **React/Vite frontend**.
+- 🌱 Currently, I'm deeply involved in my passion project, **Zenote**. I'm working on building an custom canvas performant library for 100,000+ node/edges visualizations, paired with a **Rust backend** and **React/Vite frontend**.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.eathren)
 
 [![Follow on GitHub](https://img.shields.io/github/followers/eathren?label=Follow&style=social)](https://github.com/eathren)
 
-[![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eathren&count_private=true&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eathren&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=eathren&show_icons=true&theme=bear" width="400">
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eathren&theme=tokyonight)
 
