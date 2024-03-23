@@ -6,7 +6,6 @@
 - 🎓 Graduated with a **Master of Science in Computer Science (MSCS)** from **Northeastern University**.
 - 🌱 Currently, I'm deeply involved in my passion project, **Zenote**. I'm working on building an custom immediate rendering library for 100,000+ node/edges visualizations.
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.eathren)
 
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eathren&theme=dark&hide_border=true" width="400">
@@ -37,3 +36,5 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=gnome-terminal&logoColor=white)
 
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.eathren)
