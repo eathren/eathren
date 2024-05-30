@@ -8,7 +8,9 @@
 
 ### Looks a little breezy in here...  
 
-So I admit, my old work leaves me a bit embarrassed to share so they're all set to private, while the new stuff I'm passionate about I'm trying to develop into a full-blown business, and am keeping the source code  private (for now). I'm working on some examples to show my expertise in JavaScript, Python, and Rust however, just to show I know what I'm doing :^).
+So I admit, my old work leaves me a bit embarrassed to share so they're all set to private, while the new stuff I'm passionate about I'm trying to develop into a full-blown business (_cough, cough, Zenote_), and am keeping the source code  private (for now). It's currently in it's rewrite to beta however, and so that means I've taken it offline as I completely rewrite the backend away from serverless systems. Turns out, bootstrapping a startup is hard. Who knew.
+
+In the meantime, I'm working on some examples to show my expertise in JavaScript, Python, and Rust however, just to show I know what I'm doing :^). ETA June 2024 at some point.
 
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eathren&theme=dark&hide_border=true" width="400">
