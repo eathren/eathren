@@ -7,7 +7,7 @@
 - 🌱 Currently, I'm deeply involved in my passion project, **Zenote**. I'm working on building an custom immediate rendering library for 100,000+ node/edges visualizations.
 
 **Looks a little breezy in here**
-So I admit, my old work leaves me a bit embarrassed to share and have them set to private, while the new stuff I'm passionate about I'm trying to develop into a full-blown business, and am keeping the source code  private (for now). I'm working on some examples to show my expertise in JavaScript, Python, and Rust however, just to show I know what I'm doing :^).
+So I admit, my old work leaves me a bit embarrassed to share so they're all set to private, while the new stuff I'm passionate about I'm trying to develop into a full-blown business, and am keeping the source code  private (for now). I'm working on some examples to show my expertise in JavaScript, Python, and Rust however, just to show I know what I'm doing :^).
 
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eathren&theme=dark&hide_border=true" width="400">
