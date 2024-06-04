@@ -8,10 +8,9 @@
 
 ### Looks a little breezy in here...  
 
-So I admit, my old work leaves me a bit embarrassed to share so they're all set to private, while the new stuff I'm passionate about I'm trying to develop into a full-blown business (_cough, cough, Zenote_), and am keeping the source code  private (for now). It's currently in it's rewrite to beta however, and so that means I've taken it offline as I completely rewrite the backend away from serverless systems. Turns out, bootstrapping a startup is hard. Who knew.
+I mainly write code that makes money. After a number of years of working as a developer, I grew a bit tired of sharing my hard work for free. It's actually rather strange for the culture, that for one of the few professions where businesses can be copy-pasted, we're expected to supply the code to the public. 
 
-In the meantime, I'm working on some examples to show my expertise in JavaScript, Python, and Rust however, just to show I know what I'm doing :^). ETA June 2024 at some point.
-
+If you're curious about something I've built, ask about it. I'm always happy to chat in a one on one over video.
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eathren&theme=dark&hide_border=true" width="400">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=eathren&show_icons=true&theme=bear" width="400"> -->
